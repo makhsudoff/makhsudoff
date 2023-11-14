@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, ReactJS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://t.me/themakhsudov </h3>
 <p align="left">
 </p>
 
