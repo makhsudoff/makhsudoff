@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdurauf</h1>
-<h3 align="center">Frontend developer from Uzbekistan 🇺🇿</h3>
+# Abdurauf Makhsudov
+
+Frontend Developer. I have been learning programming for 3 months ago.
 
 - 🌱 I’m currently learning **Html, Css, Javascript, ReactJS**
 
